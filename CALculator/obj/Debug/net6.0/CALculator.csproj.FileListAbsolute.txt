@@ -1,0 +1,15 @@
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\bin\Debug\net6.0\CALculator.exe
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\bin\Debug\net6.0\CALculator.deps.json
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\bin\Debug\net6.0\CALculator.runtimeconfig.json
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\bin\Debug\net6.0\CALculator.dll
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\bin\Debug\net6.0\CALculator.pdb
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\CALculator.csproj.AssemblyReference.cache
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\CALculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\CALculator.AssemblyInfoInputs.cache
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\CALculator.AssemblyInfo.cs
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\CALculator.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\CALculator.dll
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\refint\CALculator.dll
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\CALculator.pdb
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\CALculator.genruntimeconfig.cache
+C:\Users\Bohdan\Code\Chapter 2\CALculator\CALculator\obj\Debug\net6.0\ref\CALculator.dll
